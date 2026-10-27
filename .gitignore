@@ -1,0 +1,6 @@
+target/
+images/output/
+*.class
+.idea/
+*.iml
+.vscode/
